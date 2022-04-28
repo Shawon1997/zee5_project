@@ -16,21 +16,36 @@
 # <h2>About Section : </h2>
 ![alt text](https://camo.githubusercontent.com/3601022634a50121f3dd27bb93679a27393714ec5c943ac391c1125e926da980/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f775a6a726d41794f444774715a6e67712d42342d437a792d4c797033446d6c6e794a50636442485f3438317a6345785f79645a50367462554d336d696566306a4e376a7a475a63377855377a55625f677564426c526b6e727248584f69707237424a3471664e506b7661696d4659474d47326e6e4668764a414d5542754579344d6d722d6b32514c3834493d7732343030)
 
-## Technologies & Tool we used :
+## Technologies & Tool & API we used :
 
 - HTML
 - CSS
 - Javascript
 - Bootstrap
 - VS Code
+- Paytm Payment API
 - Netlify( Deployment)
+
+## Some Chanllenges We Faced :
+
+We have faced few challenges while working on project we deal with them , sometime it take lots of time but on the other hand we got some learning from that. some of the challenges are-
+As we are working on a team, we have to compile our data into our project sometime it messed.
+Functionality of each button on click and provide link over there . We have done this in precise manner. so that every thing will set up in a certain direction.
+location for pick up and drop drag and drop.
+strugled little bit during integration.
+Getting realtime data and working on it.
+
+## Conclusion & Experience :
+We are very thankful for the support of my teammates and instructor for the completion of project in due time. We will look forward to add some feature and functionality which we left in this project for future expansion.
+This entire journey of making the project was awesome. We have learned lots of things by applying to the real website and it gave us a lot of confidence. there were some more functionalities that could have been done, the time didn’t permit us to go further. But we will surely improve it during the course of time in future.
 
 ## Team Members and Contributors :
 
-### Dipak Dushing
-### Shawon Biswas
-### Noorish Nauman
-### Hemachandra
+### 1] Dipak Dushing
+### 2]Shawon Biswas
+### 3]MD Noorish Nauman
+### 4]Hemachandra S
+
 
 
 
